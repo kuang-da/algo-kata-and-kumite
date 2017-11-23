@@ -27,3 +27,10 @@ then i = i + 1
 	   |_____|
 	      |
 ```
+# Complex
+
++ Time Complex
+  O(n)
+
++ Space Comple
+  O(1)
